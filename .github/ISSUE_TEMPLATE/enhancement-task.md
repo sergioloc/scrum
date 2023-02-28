@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Describe the functionallity**
-A clear and concise description of what the bug is.
+**Describe the topic**
+A clear and concise description of what the topic is.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Enhancement proposal**
+A clear and concise description of the enhancement proposed.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If applicable, add screenshots to help explain the situation.
 
 **Additional context**
-Add any other context about the problem here.
+Add any other comment that may be necessary.
